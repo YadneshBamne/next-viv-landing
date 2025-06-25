@@ -144,8 +144,8 @@ console.log(transcription.text);`,
       <section className="py-20 bg-[#07080A]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-4xl mx-auto">
-            <div className="inline-flex items-center space-x-2 bg-blue-50 text-blue-700 px-4 py-2 rounded-full text-sm font-medium mb-8">
-              <Sparkles className="w-4 h-4" />
+            <div className="inline-flex items-center space-x-2 bg-[#121416] text-white px-4 py-2 rounded-full text-sm font-medium mb-8">
+              <Sparkles className="w-4 h-4 text-amber-200" />
               <span>Introducing VIV-4 • Our most capable model yet</span>
             </div>
 
