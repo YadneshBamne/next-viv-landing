@@ -266,7 +266,7 @@ console.log(response.choices[0].message.content);`}</code>
             <h2 className="text-4xl font-bold text-white mb-4">
               Powerful models for every use case
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-white/45 max-w-3xl mx-auto">
               Choose from our family of state-of-the-art models, each optimized
               for different tasks and performance requirements.
             </p>
@@ -378,7 +378,7 @@ console.log(response.choices[0].message.content);`}</code>
             <h2 className="text-4xl font-bold text-white mb-4">
               Explore our capabilities
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-white/45 max-w-3xl mx-auto">
               From text generation to image creation and audio processing, see
               what you can build with VIV.
             </p>
